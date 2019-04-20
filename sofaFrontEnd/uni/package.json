@@ -1,0 +1,14 @@
+{
+  "name": "uni",
+  "version": "0.0.1",
+  "description": "for sofa multi-platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "sofa"
+  ],
+  "author": "nighrain",
+  "license": "ISC"
+}
