@@ -1,5 +1,7 @@
 package org.nighrain.sofa.common.utils;
 
+import java.util.Map;
+
 /**
  *    
  * Title         [title]
@@ -12,4 +14,5 @@ package org.nighrain.sofa.common.utils;
  */
 public interface IdWorker {
    long nextId();
+   Map<String,Object> parseId(long id);
 }
